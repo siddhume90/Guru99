@@ -205,7 +205,7 @@ public class pageObjectModel {
 		tvTab.click();
 	}
 	
-	public void addSamsuntToWishList() {
+	public void addSamsungToWishList() {
 		
 		String xpathString="//*[@id='top']/body/div/div/div[2]/div/div[2]/div[1]/div[2]/ul/li[2]/div/div[3]/ul/li[1]/a";
 		String cssStr="[class=\"products-grid products-grid--max-4-col first last odd\"] >li:nth-of-type(2) ul li:nth-of-type(1)";

@@ -28,7 +28,7 @@ public class day5part2 {
 
 		System.out.println("After:::::" + driver.getWindowHandle());
 	  
-	  p.addSamsuntToWishList();
+	  p.addSamsungToWishList();
 	  p.clickShareWishList();
 	  p.shareEmail("siddhume90@gmail.com");
 	  p.clickShareWishList();
